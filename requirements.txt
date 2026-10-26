@@ -1,0 +1,3 @@
+# Only needed for --log-group live queries against a WAFv2 logging destination.
+# Saved-file workflows (the sample data) need nothing extra.
+boto3>=1.28
